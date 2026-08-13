@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-pictures-path name="pictures" path="CamSwitch/" />
+    <external-movies-path name="movies" path="CamSwitch/" />
+    <files-path name="segments" path="segments/" />
+    <cache-path name="cache" path="." />
+</paths>
